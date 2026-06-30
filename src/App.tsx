@@ -71,7 +71,7 @@ const Navigation = () => {
               <Sparkles className="w-5 h-5 text-amber-400 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2" />
             </div>
             <div>
-              <span className="font-serif text-2xl font-bold text-slate-100">아람</span>
+              <span className="font-serif text-2xl font-bold text-slate-100">이람</span>
               <span className="block text-xs text-slate-400 tracking-wider">ARAM FOUNDATION</span>
             </div>
           </a>
@@ -207,7 +207,7 @@ const HeroSection = () => {
           className="flex flex-col sm:flex-row gap-4 justify-center"
         >
           <button className="group px-8 py-4 bg-gradient-to-r from-amber-500 to-amber-600 text-slate-900 rounded-full font-semibold text-lg hover:shadow-xl hover:shadow-amber-500/30 transition-all flex items-center justify-center gap-2">
-            <span>아람 알아보기</span>
+            <span>이람 알아보기</span>
             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
           </button>
           <button
@@ -348,7 +348,7 @@ const ComparisonSection = () => {
                 <th className="text-left py-4 px-6 text-slate-400 font-medium">구분</th>
                 <th className="text-center py-4 px-6 text-slate-500 font-medium">전통 묘지 / 일반 납골당</th>
                 <th className="text-center py-4 px-6 text-slate-500 font-medium">기존 일반 디지털 추모</th>
-                <th className="text-center py-4 px-6 text-amber-400 font-medium">아람 블록체인 O2O 위패</th>
+                <th className="text-center py-4 px-6 text-amber-400 font-medium">이람 블록체인 O2O 위패</th>
               </tr>
             </thead>
             <tbody>
@@ -388,12 +388,12 @@ const VisionSection = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
           >
-            <span className="text-amber-400 text-sm font-semibold tracking-wider uppercase">아람 트라이앵글</span>
+            <span className="text-amber-400 text-sm font-semibold tracking-wider uppercase">이람 트라이앵글</span>
             <h2 className="font-serif text-4xl md:text-5xl font-bold text-white mt-4 mb-6">
               생애 복지와<br />영원한 기억의 결합
             </h2>
             <p className="text-slate-400 text-lg mb-8 leading-relaxed">
-              아람재단은 블록체인 기술과 O2O 인프라를 결합하여,<br />
+              이람재단은 블록체인 기술과 O2O 인프라를 결합하여,<br />
               누구도 홀로 지지 않는 세상을 만들어갑니다.
             </p>
 
@@ -1065,7 +1065,7 @@ const ContactSection = () => {
           >
             <span className="text-amber-400 text-sm font-semibold tracking-wider uppercase">Get In Touch</span>
             <h2 className="font-serif text-4xl md:text-5xl font-bold text-white mt-4 mb-6">
-              아람재단과<br />함께하세요
+              이람재단과<br />함께하세요
             </h2>
             <p className="text-slate-400 text-lg mb-8 leading-relaxed">
               영원한 기억을 위한 여정을 시작합니다.<br />
@@ -1151,7 +1151,7 @@ const Footer = () => {
           <div className="flex items-center gap-3">
             <Star className="w-8 h-8 text-slate-400" />
             <div>
-              <span className="font-serif text-xl font-bold text-slate-200">아람 글로벌 재단법인</span>
+              <span className="font-serif text-xl font-bold text-slate-200">이람 글로벌 재단법인</span>
               <span className="block text-xs text-slate-500 tracking-wider">ARAM GLOBAL FOUNDATION</span>
             </div>
           </div>

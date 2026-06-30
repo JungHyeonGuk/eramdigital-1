@@ -131,13 +131,13 @@ export const HometownPage = () => {
       <section className="py-16 bg-gradient-to-b from-slate-900 to-slate-950 border-t border-slate-800">
         <div className="max-w-3xl mx-auto px-4 text-center">
           <p className="text-slate-400 mb-6">
-            더 많은 아람재단의 이야기를 만나보세요.
+            더 많은 이람재단의 이야기를 만나보세요.
           </p>
           <Link
             to="/"
             className="inline-flex items-center gap-2 px-8 py-3.5 bg-gradient-to-r from-amber-500 to-amber-600 text-slate-900 rounded-full font-semibold hover:shadow-lg hover:shadow-amber-500/30 transition-all"
           >
-            아람재단 소개 보기
+            이람재단 소개 보기
           </Link>
         </div>
       </section>

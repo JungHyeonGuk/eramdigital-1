@@ -159,7 +159,7 @@ export const LuminaPage = () => {
           className="group inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium border border-[rgba(216,166,87,0.18)] text-[#c9c1ad] bg-[rgba(8,8,10,0.6)] backdrop-blur-[10px] transition-all duration-300 hover:border-[#d8a657] hover:text-[#d8a657]"
         >
           <ArrowLeft className="w-4 h-4 group-hover:-translate-x-1 transition-transform" />
-          아람재단
+          이람재단
         </button>
       </div>
 
@@ -790,7 +790,7 @@ export const LuminaPage = () => {
               className="inline-flex items-center gap-2 px-6 py-3 border border-[rgba(216,166,87,0.18)] text-[#c9c1ad] text-[13px] tracking-[0.12em] uppercase font-medium no-underline transition-all duration-300 hover:border-[#d8a657] hover:text-[#d8a657]"
             >
               <ArrowLeft className="w-4 h-4" />
-              아람재단으로 돌아가기
+              이람재단으로 돌아가기
             </Link>
           </div>
         </div>
